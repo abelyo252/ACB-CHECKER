@@ -15,5 +15,8 @@ checkers-playing robot that employs computer vision algorithms that has a vision
 
 `$ python Checkerboard.py`
 
+
+-Since this project is currently in the demo stage, certain bugs still need to be fixed.
+I'm delighted to have anyone improve this project!
 &copy; Abel Yohannes
 
