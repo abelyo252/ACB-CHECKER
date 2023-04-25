@@ -1,9 +1,10 @@
 # ACB-CHECKER
 checkers-playing robot that employs computer vision algorithms that has a vision using YOLOv5 deep learning model, and an RRR manipulator. The goal is to use this system to enable the robot to accurately recognize and move pieces on the checkers board.
+![](https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Current_Logo_of_Jimma_University.png/220px-Current_Logo_of_Jimma_University.png)
 ###JIMMA UNIVERSITY
 > Electrical and Computer Engineering Internship Project
 
-![](https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Current_Logo_of_Jimma_University.png/220px-Current_Logo_of_Jimma_University.png)
+
 
 
 ### Features
