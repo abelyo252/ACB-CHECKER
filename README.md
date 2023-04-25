@@ -20,6 +20,14 @@ This window will appeared
 ![3](https://user-images.githubusercontent.com/126100289/234286805-ab561328-3e95-4fb8-893d-f04e57a37a0d.png)
 
 
+# Hardware Part
+Hardware part had been designed first using blender and calculate forward kinematics of the robot
+doing such 3D stuff used for analysed jacobian workplace of the given manipulator and how things will order themselves
+
+![view1](https://user-images.githubusercontent.com/126100289/234289829-0e1be892-5f9d-4891-b5ad-6d7bc065929e.png)
+![view2](https://user-images.githubusercontent.com/126100289/234289852-a8511b40-8540-4e91-af82-fa6e083f1580.png)
+
+# 3D Simulation of Forward Kinematics
 
 -Since this project is currently in the demo stage, certain bugs still need to be fixed.
 I'm delighted to have anyone improve this project!
